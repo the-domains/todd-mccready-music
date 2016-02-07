@@ -1,0 +1,28 @@
+name: Todd McCready Music
+favicon: null
+layout_spectrum: 0.5375571108888835
+typography_spectrum: 0.8569981912150979
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.012740427162498236
+  lightness: 0.7780602006241679
+  saturation: 0.2317869106773287
+  rhythmicContrast: 0.5512654567137361
+purpose: []
